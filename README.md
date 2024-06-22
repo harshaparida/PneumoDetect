@@ -5,6 +5,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8-green)](https://www.python.org/)
 [![Psutil](https://img.shields.io/badge/Psutil-v5.8.0-yellow)](https://pypi.org/project/psutil/)
 
+<p align="center">
+  <img src="images.png" alt="stack">
+</p>
+
 ## Project Overview
 
 This project is aimed at developing a deep learning model to detect pneumonia from chest X-ray images using the Fastai library. The project uses a convolutional neural network (CNN) based on the ResNet34 architecture and leverages data augmentation techniques and transfer learning for improved performance.
